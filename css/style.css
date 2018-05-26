@@ -1,0 +1,18 @@
+.row {
+	margin-bottom: 25px;
+	padding-bottom: 25px;
+	border-bottom: 1px solid #333;
+}
+
+.row:last-of-type {
+	border: none;
+}
+
+
+body {
+	background-color: #eaeaea;
+}
+
+img {
+	padding-top: 20px;
+}
